@@ -1,3 +1,4 @@
+# Full Stack Authentication 🔐
 # [Click Here](https://gracious-clarke-13d773.netlify.app/) to view app 🦔
 
 ## Technology Used  🌟
